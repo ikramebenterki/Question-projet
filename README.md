@@ -14,7 +14,7 @@ puis configurer le bridge ( nom, type , interface ..) ensuite valider les change
 
 
 4.Quel est le rôle de pi-hole sur l'infrastructure ? 
--le role du pi-hole sur l'infrastructure est de bloquer les domaines malveillants .
+- le role du pi-hole sur l'infrastructure est de bloquer les domaines malveillants .
 
 
 5.Quand un developpeur rejoins le VPN dédié pour eux, peuvent t-il accéder à internet 
@@ -38,7 +38,7 @@ internet à travers le VPN ?
    5-une fois le ticket resolu , le cloturer .
 
 9.Quel est le rôle de HaProxy sur l'infrastructure? cite un exemple.
--le role Haproxy est de distribuer le treafic reseau entre les serveurs .
+-l e role Haproxy est de distribuer le treafic reseau entre les serveurs .
 
 10.Dans quel répertoire se trouve la configuration du service HaProxy ? 
 - elle se trouve dans /etc/haproxy/haproxy.cfg.
